@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oman.patil\\Desktop\\try\\template\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1014C859-6BF0-4C85-84F4-55DA44F7BFAC}|Backend.csproj|c:\\users\\oman.patil\\desktop\\try\\template\\backend\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1014C859-6BF0-4C85-84F4-55DA44F7BFAC}|Backend.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1014C859-6BF0-4C85-84F4-55DA44F7BFAC}|Backend.csproj|c:\\users\\oman.patil\\desktop\\try\\template\\backend\\repository\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1014C859-6BF0-4C85-84F4-55DA44F7BFAC}|Backend.csproj|solutionrelative:repository\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1014C859-6BF0-4C85-84F4-55DA44F7BFAC}|Backend.csproj|c:\\users\\oman.patil\\desktop\\try\\template\\backend\\irepository\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1014C859-6BF0-4C85-84F4-55DA44F7BFAC}|Backend.csproj|solutionrelative:irepository\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oman.patil\\Desktop\\try\\template\\Backend\\Repository\\PatientRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\PatientRepo.cs",
+              "ToolTip": "C:\\Users\\oman.patil\\Desktop\\try\\template\\Backend\\Repository\\PatientRepo.cs",
+              "RelativeToolTip": "Repository\\PatientRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T05:55:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oman.patil\\Desktop\\try\\template\\Backend\\IRepository\\IPatientRepo.cs",
+              "RelativeDocumentMoniker": "IRepository\\IPatientRepo.cs",
+              "ToolTip": "C:\\Users\\oman.patil\\Desktop\\try\\template\\Backend\\IRepository\\IPatientRepo.cs",
+              "RelativeToolTip": "IRepository\\IPatientRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T05:55:24.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\oman.patil\\Desktop\\try\\template\\Backend\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\oman.patil\\Desktop\\try\\template\\Backend\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvzAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T05:55:24.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
